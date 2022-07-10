@@ -1,0 +1,35 @@
+.img {
+    background-image: url('page.png');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.text{
+    font-size: 16.2px;
+}
+.titlebox{
+    text-align: center;
+}
+.wrap{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.wraptitle{ 
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.subtitle{
+    font-size : 20px;
+}
+.button{
+    text-align: center;
+}
+.text1{
+    font-weight: bold;
+    line-height: 500%;
+}
+.text2{
+    line-height: 30%;
+}
